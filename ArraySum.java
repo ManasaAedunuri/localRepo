@@ -1,5 +1,6 @@
 package arrays_package;
 
+// ArraySum java program
 public class ArraySum {
 
 	public static void main(String[] args) {
