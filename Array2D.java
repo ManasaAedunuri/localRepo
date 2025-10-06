@@ -1,5 +1,6 @@
 package arrays_package;
 
+// Array2D program 
 import java.util.Arrays;
 import java.util.Scanner;
 
